@@ -1,4 +1,5 @@
 _repo: A-Turkish-Woman-s-European-Impressions_50540
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -9,12 +10,17 @@ contributor:
     agent_name: Rodin, Auguste
     gutenberg_agent_id: '45965'
     url: http://www.gutenberg.org/2009/agents/45965
+covers:
+- cover_type: archival
+  image_path: 50540-h/images/cover.jpg
 creator:
   author:
     agent_name: Hanoum, Zeyneb
     gutenberg_agent_id: '45963'
     url: http://www.gutenberg.org/2009/agents/45963
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50540#A-Turkish-Woman-s-European-Impressions
 gutenberg_issued: '2015-11-23'
 gutenberg_type: Text
 identifiers:
